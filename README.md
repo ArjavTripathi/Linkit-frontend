@@ -1,8 +1,8 @@
-# Linkly — Frontend
+# Linkit — Frontend
 
 The React frontend for Linkly, a full-stack URL shortener with authentication, link management, and click analytics.
 
-**Backend repo:** [linkly](https://github.com/ArjavTripathi/linkly)
+**Backend repo:** [linkly](https://github.com/ArjavTripathi/linkit)
 
 ---
 
